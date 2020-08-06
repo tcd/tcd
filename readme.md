@@ -1,5 +1,3 @@
-## tcd
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=tcd&theme=onedark&count_private=true&show_icons=true" alt="Stats"/>
   <br/>
